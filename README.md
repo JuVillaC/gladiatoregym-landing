@@ -45,8 +45,8 @@ Esta landing page fue creada como una propuesta visual y comercial para presenta
 
 - Instagram: https://www.instagram.com/gladiatore.ccp/
 - WhatsApp: https://api.whatsapp.com/send?phone=56934980022
-- Ubicación: Concepción, Chile
+- Ubicación: Libertador Gral. Bernardo O'Higgins 445, Concepción, Chile
 
 ## Autor
 
-Desarrollado por _Juan Villa Crisosto_ para _Gladiatore Gym_.
+Desarrollado por **Juan Villa Crisosto** para **Gladiatore Gym**.
